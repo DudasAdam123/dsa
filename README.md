@@ -5,3 +5,4 @@
 - The next line asks you to type in a number, and then the line after that, reads in the number you just typed in.
   This process will repeat in the following two lines of code.
 - Finally the program adds the two numbers together.
+- The last line of code, is just another input asking line, for the program to not close immediately.
